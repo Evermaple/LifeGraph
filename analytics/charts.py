@@ -16,3 +16,6 @@ def generate():
 
     fig3 = px.scatter(df, x="sleep", y="mood")
     fig3.write_html("sleep_mood.html")
+
+if __name__ == "__main__":
+    generate()
