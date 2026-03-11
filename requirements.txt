@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+plotly
+python-telegram-bot
+garminconnect
+requests
+python-dotenv
+jinja2
